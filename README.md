@@ -53,13 +53,7 @@ $ pip install -r requirements.txt
 
 ## 2. Ejecución
 
-Para ejecutar la aplicación debes ingresar (desde la consola) a la carpeta app:
-
-```
-$ ls app
-```
-
-Para luego ejecutar el archivo main.py
+Para ejecutar la aplicación debes ingresar (desde la consola) el siguiente comando:
 
 ```
 $ python main.py
